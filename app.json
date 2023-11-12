@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Lyrically",
+    "description": "Lyrically is a lyrics search app, fetching data from Deezer an Lyrics.ovh.",
+    "icon": "./assets/images/icon.png",
+    "slug": "lyricaly",
+    "sdkVersion": "30.0.0",
+    "platforms": ["ios", "android"],
+    "orientation": "portrait",
+    "privacy": "public",
+    "primaryColor": "#07CCBA",
+    "splash": {
+      "backgroundColor": "#191919 ",
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover"
+    },
+    "extra": {
+      "appName": "Lyricaly",
+      "developerName": "Samuel"
+
+    }
+  }
+}
