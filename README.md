@@ -41,7 +41,7 @@ Built as a personal project for [React Native](https://facebook.github.io/react-
 
 ### Details Screen
 
-<img src="https://github.com/SamuelPaschalson/Lyrically/blob/master/screenshots/details-ariana.jpg" width="270" hspace="5" alt="Lyrically - Details screen, Ariana Grande"><img src="https://github.com/SamuelPaschalson/Lyrically/blob/master/screenshots/details-above.jpg" width="270" hspace="5" alt="Lyrically - Details screen, Above and Beyond"><img src="https://github.com/SamuelPaschalson/Lyrically/blob/master/screenshots/details-dua.jpg" width="270"  alt="Lyrically - Details screen, Dua Lipa">
+<img src="https://github.com/SamuelPaschalson/Lyrically/blob/master/screenshots/details-justin.jpg" width="270" hspace="5" alt="Lyrically - Details screen, Justin Beiber"><img src="https://github.com/SamuelPaschalson/Lyrically/blob/master/screenshots/details-the-one.jpg" width="270" hspace="5" alt="Lyrically - Details screen, We are the One"><img src="https://github.com/SamuelPaschalson/Lyrically/blob/master/screenshots/details-eminem.jpg" width="270"  alt="Lyrically - Details screen, Eminem">
 
 ### About Screen
 
