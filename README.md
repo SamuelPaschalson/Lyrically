@@ -12,7 +12,7 @@ Built as a personal project for [React Native](https://facebook.github.io/react-
 	- [Search Screen](#search-screen)
 	- [Details Screen](#details-screen)
 	- [About Screen](#about-screen)
-	- [Navigation (Drawer)](#navigation-drawer)
+	- [Navigation](#navigation)
 - [Expo Project Page](#expo-project-page)
 - [App Features](#app-features)
 	- [Screens](#screens)
@@ -47,9 +47,9 @@ Built as a personal project for [React Native](https://facebook.github.io/react-
 
 <img src="https://github.com/SamuelPaschalson/Lyrically/blob/master/screenshots/about.jpg" width="270" alt="Lyrically - About screen">
 
-### Navigation (Drawer)
+### Navigation
 
-<img src="https://github.com/SamuelPaschalson/Lyrically/blob/master/screenshots/navigation.jpg" width="270" alt="Lyrically - Navigation drawer">
+<img src="https://github.com/SamuelPaschalson/Lyrically/blob/master/screenshots/navigation.jpg" width="270" alt="Lyrically - Navigation">
 
 
 ## App Features
